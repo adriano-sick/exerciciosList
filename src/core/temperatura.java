@@ -27,10 +27,10 @@ public class temperatura {
         }
 
         System.out.println("Média de temperatura do primeiro semetre: " + " " + Math.ceil((soma / meses.size())));
-        System.out.printf("Meses com temperatura acima da média:");
+        System.out.print("Meses com temperatura acima da média:");
 
         while (i < meses.size()) {
-            if (temperaturas.get(i) > soma / temperaturas.size()) System.out.printf(" " + meses.get(i));
+            if (temperaturas.get(i) > soma / temperaturas.size()) System.out.print(" " + meses.get(i));
             i++;
         }
     }

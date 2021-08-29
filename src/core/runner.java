@@ -3,9 +3,6 @@ package core;
 import java.util.Scanner;
 
 public class runner {
-    private static Object temperatura;
-    private static Object detetiveRobo;
-
     public static void main(String[] args) {
         var opcao = 0;
         while (opcao != 1 && opcao != 2) {

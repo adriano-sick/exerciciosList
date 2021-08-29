@@ -5,7 +5,7 @@
 //3. "Mora perto da vítima?"
 //4. "Devia para a vítima?"
 //5. "Já trabalhou com a vítima?"
-//Se a pessoa reponder S para duas questoes ela sera classificada como "Suspeita", 3 ou 4 "cumplice" 5 "assassina" 0 ou 1 "Inocente"
+//Se a pessoa responder S para duas questoes ela sera classificada como "Suspeita", 3 ou 4 "cumplice" 5 "assassina" 0 ou 1 "Inocente"
 
 package core;
 
